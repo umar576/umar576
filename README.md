@@ -1,12 +1,14 @@
-# Hey Everyone! I'm [S.Umar Hussain](https://github.com/umar576) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [S.Umar Hussain](https://github.com/umar576)
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on ... a freelance Python Trainer at Pythonlife <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully trained 1000+ students in Python programming, covering everything from basics to advanced concepts. I specialize in providing study materials, hands-on tasks, and interview preparation resources to ensure effective and practical learning..<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
-Tips and strategies for mastering Python.
-Practical approaches to task-based learning in programming.
-How to effectively prepare for Python programming interviews.
-My experience in freelancing and training over 1000+ students..<br>- 📫 How to reach me: ... umarh6338@gmail.com
+🔭 I’m currently learning and exploring ... Python, Pandas, NumPy, HTML, CSS, and JavaScript.
+<br>
+🌱 I’m actively improving my skills in web development and data analysis.
+<br>
+👯 I’ve completed hands-on projects and exercises in Python and web technologies, gaining practical experience in programming, data manipulation, and frontend development.
+<br>
+💬 Ask me about ... Python programming, data analysis with Pandas and NumPy, building websites with HTML, CSS, and JavaScript, task-based learning, and project-based approaches for mastering programming skills.<br>- 📫 How to reach me: ... umarh6338@gmail.com
 
 
 
